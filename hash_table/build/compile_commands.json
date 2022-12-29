@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pear/Projects/hash_table/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/_hash_table.c.o -c /home/pear/Projects/hash_table/src/_hash_table.c",
+  "file": "/home/pear/Projects/hash_table/src/_hash_table.c"
+},
+{
+  "directory": "/home/pear/Projects/hash_table/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/main.c.o -c /home/pear/Projects/hash_table/src/main.c",
+  "file": "/home/pear/Projects/hash_table/src/main.c"
+}
+]
