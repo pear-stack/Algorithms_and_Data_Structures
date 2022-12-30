@@ -15,6 +15,7 @@ enable_language(C CXX)
 set(sources_SRCS
     ${PROJ_PATH}/src/_hash_table.c
     ${PROJ_PATH}/src/main.c
+    ${PROJ_PATH}/src/prime_number.c
 )
 
 set(include_DIRS
