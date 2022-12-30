@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/pear/Projects/hash_table/build"
+			"value" : "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/pear/Projects/hash_table"
+			"value" : "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1123,7 +1123,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/pear/Projects/hash_table/build"
+			"value" : "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build"
 		},
 		{
 			"name" : "hash_table_IS_TOP_LEVEL",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/pear/Projects/hash_table"
+			"value" : "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table"
 		}
 	],
 	"kind" : "cache",

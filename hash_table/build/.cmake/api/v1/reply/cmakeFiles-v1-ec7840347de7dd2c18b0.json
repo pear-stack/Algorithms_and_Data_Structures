@@ -125,8 +125,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/pear/Projects/hash_table/build",
-		"source" : "/home/pear/Projects/hash_table"
+		"build" : "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build",
+		"source" : "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table"
 	},
 	"version" : 
 	{

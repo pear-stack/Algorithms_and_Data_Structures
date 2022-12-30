@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/pear/Projects/hash_table/build/
+cmake_ninja_workdir = /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build/
 # =============================================================================
 # Object build statements for EXECUTABLE target hash_table
 
@@ -49,17 +49,24 @@ cmake_ninja_workdir = /home/pear/Projects/hash_table/build/
 
 build cmake_object_order_depends_target_hash_table: phony || CMakeFiles/hash_table.dir
 
-build CMakeFiles/hash_table.dir/src/_hash_table.c.o: C_COMPILER__hash_table_Debug /home/pear/Projects/hash_table/src/_hash_table.c || cmake_object_order_depends_target_hash_table
+build CMakeFiles/hash_table.dir/src/_hash_table.c.o: C_COMPILER__hash_table_Debug /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/_hash_table.c || cmake_object_order_depends_target_hash_table
   DEP_FILE = CMakeFiles/hash_table.dir/src/_hash_table.c.o.d
   FLAGS = -g -std=gnu99
-  INCLUDES = -I/home/pear/Projects/hash_table/inc
+  INCLUDES = -I/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/inc
   OBJECT_DIR = CMakeFiles/hash_table.dir
   OBJECT_FILE_DIR = CMakeFiles/hash_table.dir/src
 
-build CMakeFiles/hash_table.dir/src/main.c.o: C_COMPILER__hash_table_Debug /home/pear/Projects/hash_table/src/main.c || cmake_object_order_depends_target_hash_table
+build CMakeFiles/hash_table.dir/src/main.c.o: C_COMPILER__hash_table_Debug /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/main.c || cmake_object_order_depends_target_hash_table
   DEP_FILE = CMakeFiles/hash_table.dir/src/main.c.o.d
   FLAGS = -g -std=gnu99
-  INCLUDES = -I/home/pear/Projects/hash_table/inc
+  INCLUDES = -I/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/inc
+  OBJECT_DIR = CMakeFiles/hash_table.dir
+  OBJECT_FILE_DIR = CMakeFiles/hash_table.dir/src
+
+build CMakeFiles/hash_table.dir/src/prime_number.c.o: C_COMPILER__hash_table_Debug /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/prime_number.c || cmake_object_order_depends_target_hash_table
+  DEP_FILE = CMakeFiles/hash_table.dir/src/prime_number.c.o.d
+  FLAGS = -g -std=gnu99
+  INCLUDES = -I/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/inc
   OBJECT_DIR = CMakeFiles/hash_table.dir
   OBJECT_FILE_DIR = CMakeFiles/hash_table.dir/src
 
@@ -71,7 +78,7 @@ build CMakeFiles/hash_table.dir/src/main.c.o: C_COMPILER__hash_table_Debug /home
 #############################################
 # Link the executable hash_table
 
-build hash_table: C_EXECUTABLE_LINKER__hash_table_Debug CMakeFiles/hash_table.dir/src/_hash_table.c.o CMakeFiles/hash_table.dir/src/main.c.o
+build hash_table: C_EXECUTABLE_LINKER__hash_table_Debug CMakeFiles/hash_table.dir/src/_hash_table.c.o CMakeFiles/hash_table.dir/src/main.c.o CMakeFiles/hash_table.dir/src/prime_number.c.o
   FLAGS = -g
   LINK_LIBRARIES = -lm
   OBJECT_DIR = CMakeFiles/hash_table.dir
@@ -85,7 +92,7 @@ build hash_table: C_EXECUTABLE_LINKER__hash_table_Debug CMakeFiles/hash_table.di
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/pear/Projects/hash_table/build && /usr/local/bin/ccmake -S/home/pear/Projects/hash_table -B/home/pear/Projects/hash_table/build
+  COMMAND = cd /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build && /usr/local/bin/ccmake -S/home/pear/Projects/Algorithms_and_Data_Structures/hash_table -B/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -97,7 +104,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/pear/Projects/hash_table/build && /usr/local/bin/cmake --regenerate-during-build -S/home/pear/Projects/hash_table -B/home/pear/Projects/hash_table/build
+  COMMAND = cd /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build && /usr/local/bin/cmake --regenerate-during-build -S/home/pear/Projects/Algorithms_and_Data_Structures/hash_table -B/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -113,7 +120,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /home/pear/Projects/hash_table/build
+# Folder: /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build
 
 build all: phony hash_table
 

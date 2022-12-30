@@ -1,12 +1,17 @@
 [
 {
-  "directory": "/home/pear/Projects/hash_table/build",
-  "command": "/usr/bin/gcc -I/home/pear/Projects/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/_hash_table.c.o -c /home/pear/Projects/hash_table/src/_hash_table.c",
-  "file": "/home/pear/Projects/hash_table/src/_hash_table.c"
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/_hash_table.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/_hash_table.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/_hash_table.c"
 },
 {
-  "directory": "/home/pear/Projects/hash_table/build",
-  "command": "/usr/bin/gcc -I/home/pear/Projects/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/main.c.o -c /home/pear/Projects/hash_table/src/main.c",
-  "file": "/home/pear/Projects/hash_table/src/main.c"
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/main.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/main.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/main.c"
+},
+{
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/inc -g -std=gnu99 -o CMakeFiles/hash_table.dir/src/prime_number.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/prime_number.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/src/prime_number.c"
 }
 ]

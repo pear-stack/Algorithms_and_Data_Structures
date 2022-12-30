@@ -1,4 +1,4 @@
-# Install script for directory: /home/pear/Projects/hash_table
+# Install script for directory: /home/pear/Projects/Algorithms_and_Data_Structures/hash_table
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pear/Projects/hash_table/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/local/bin/cmake --regenerate-during-build -S/home/pear/Projects/hash_table -B/home/pear/Projects/hash_table/build
+  command = /usr/local/bin/cmake --regenerate-during-build -S/home/pear/Projects/Algorithms_and_Data_Structures/hash_table -B/home/pear/Projects/Algorithms_and_Data_Structures/hash_table/build
   description = Re-running CMake...
   generator = 1
 
