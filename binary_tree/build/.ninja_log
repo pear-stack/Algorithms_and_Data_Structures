@@ -1,0 +1,4 @@
+# ninja log v5
+0	47	1674730173899302765	CMakeFiles/binary_tree.dir/src/main.c.o	99542b7908046260
+0	52	1674730173903302765	CMakeFiles/binary_tree.dir/src/binarytree.c.o	eff68182928ca5f5
+52	83	1674730173935302765	binary_tree	60cc378cb6193e62

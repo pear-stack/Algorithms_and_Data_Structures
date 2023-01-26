@@ -1,0 +1,4 @@
+# ninja log v5
+0	22	1674729809779302592	CMakeFiles/linked_list.dir/src/linkedlist.c.o	db8cd0cb4d2b6423
+0	21	1674730063963302713	CMakeFiles/linked_list.dir/src/main.c.o	dde96c496269332d
+21	35	1674730063979302713	linked_list	a0dd99dfd026d4ed

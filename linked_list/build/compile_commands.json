@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/linked_list/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/linked_list/inc -g -std=gnu99 -o CMakeFiles/linked_list.dir/src/linkedlist.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/linked_list/src/linkedlist.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/linked_list/src/linkedlist.c"
+},
+{
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/linked_list/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/linked_list/inc -g -std=gnu99 -o CMakeFiles/linked_list.dir/src/main.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/linked_list/src/main.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/linked_list/src/main.c"
+}
+]

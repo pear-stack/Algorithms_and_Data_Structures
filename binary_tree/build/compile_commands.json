@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/inc -g -std=gnu99 -o CMakeFiles/binary_tree.dir/src/binarytree.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/src/binarytree.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/src/binarytree.c"
+},
+{
+  "directory": "/home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/build",
+  "command": "/usr/bin/gcc -I/home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/inc -g -std=gnu99 -o CMakeFiles/binary_tree.dir/src/main.c.o -c /home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/src/main.c",
+  "file": "/home/pear/Projects/Algorithms_and_Data_Structures/binary_tree/src/main.c"
+}
+]
